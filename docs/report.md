@@ -100,9 +100,13 @@ Workflow запускається для `push` і `pull_request` у гілки 
 Matrix містить `ubuntu-latest`, `windows-latest` і `macos-latest`. На кожній
 системі запускається відповідний локальний сценарій CI.
 
-**Посилання на репозиторій:** _додати після публікації_  
-**Посилання на успішний запуск Actions:** _додати після першого запуску_  
-**Посилання на Pull Request `lab1/finish`:** _додати після створення_
+**Посилання на репозиторій:** <https://github.com/andriibyhar171/apks-Byhar>  
+**Успішний запуск для `master`:**
+<https://github.com/andriibyhar171/apks-Byhar/actions/runs/38379032072>  
+**Успішний запуск для `develop`:**
+<https://github.com/andriibyhar171/apks-Byhar/actions/runs/38379031974>  
+**Посилання для створення Pull Request `lab1/finish`:**
+<https://github.com/andriibyhar171/apks-Byhar/compare/master...feature/lab1?expand=1>
 
 ## 8. Git-процес
 
